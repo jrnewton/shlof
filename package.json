@@ -1,7 +1,7 @@
 {
-  "name": "simple-sleep",
+  "name": "shlof",
   "version": "1.0.0",
-  "description": "Async sleep function",
+  "description": "A tiny async sleep function",
   "main": "index.js",
   "scripts": {
     "test": "echo \"(async()=>{await require('./index').sleep(2000);console.log('yawn');})();\" | node -"
